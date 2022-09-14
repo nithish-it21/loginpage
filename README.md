@@ -20,6 +20,6 @@
 
 11.import the file "user_db.sql"
 
-12.and open login page by phpmyadmin directory --- http://localhost:8080/login%20system/asset/index.php
+12.and open login page by phpmyadmin directory --- http://localhost/login%20system/asset/index.php
 
 13.and its done
